@@ -16,7 +16,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvoka&layout=compact&theme=radical)
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/Gerta Voka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/GertaVoka)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vokagerta4@gmail.com)
 
 
