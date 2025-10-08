@@ -16,8 +16,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvoka&layout=compact&theme=radical)
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GertaVoka)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](Gmail:vokagerta4@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerta%20Voka-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gvoka)  
+[![Gmail](https://img.shields.io/badge/Email-M%20vokagerta4@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vokagerta4@gmail.com)
+
 
 
 
