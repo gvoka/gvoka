@@ -16,8 +16,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvoka&layout=compact&theme=radical)
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/GertaVoka)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vokagerta4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GertaVoka)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vokagerta4@example.com)
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
