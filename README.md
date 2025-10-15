@@ -1,6 +1,6 @@
 
 # 👋 Hi, Tech World!
-  🎓I'm Gerta Voka a Computer Engineering student passionate about Artificial Intelligence, Web Developement and Machine Learning. 
+  🎓I'm Gerta Voka a Computer Engineering student passionate about Artificial Intelligence, Web Development and Machine Learning. 
   💡I love building small project, exploring new tech and turning ideas into code.
 
 
