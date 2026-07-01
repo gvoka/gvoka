@@ -8,8 +8,12 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 📈 GitHub Stats
 ![Gerta’s GitHub stats](https://github-readme-stats.vercel.app/api?username=gvoka&show_icons=true&theme=radical)
