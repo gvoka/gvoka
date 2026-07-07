@@ -15,8 +15,10 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 📈 GitHub Stats
-![Gerta’s GitHub stats](https://github-readme-stats.vercel.app/api?username=gvoka&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+![Gerta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvoka&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvoka&layout=compact&theme=radical)
 
 ### 🌐 Let's Connect
